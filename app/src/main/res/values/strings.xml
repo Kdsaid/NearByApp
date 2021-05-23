@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NearBy App</string>
+
+    <string name="gps_settings_title">GPS Setting</string>
+    <string name="gps_settings_text">GPS is not enabled. Do you want enable?</string>
+    <string name="settings_button_ok">Ok</string>
+    <string name="settings_button_cancel">Cancel</string>
+    <string name="default_lat">00.000000</string>
+    <string name="default_lng">00.000000</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required_for_this_app">Required for this app</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="location_permission_not_granted">Location Permission not granted</string>
+</resources>
